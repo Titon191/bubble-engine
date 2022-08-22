@@ -1,7 +1,7 @@
 
 # Bubble engine
 **This package allows you to easily and quickly create bots based on the discord.js library.**
-![Bubble logo](https://camo.githubusercontent.com/50c0d1a1f5e5b09c34c353d2599ae5c99cffabccbd6af4ea30e547e137455d48/68747470733a2f2f692e696d6775722e636f6d2f474756666a726a2e706e67)
+![Bubble logo](https://imgur.com/2PQuVwU.png)
 ## Features
 - Built-in command & event handler
 - Multifunctional and easy to use
